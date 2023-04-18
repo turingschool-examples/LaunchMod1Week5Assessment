@@ -22,7 +22,7 @@ A -
 
 Clone your forked copy of this repository into Visual Studio.  
 
-In this solution, there is a User project with a single User class.  The class works, but it needs some additional effort to be great! One thing that is missing is tests; your job is to write the tests that will confirm the functionality of the class.  As you write the tests, you might find some refactoring opportunities; update the user class with any refactors you deem necessary.  The only rule is that all the existing methods must still exist when you are finished!
+In this solution, there is a User project with a single User class.  The class works, but it needs some additional effort to be great! One thing that is missing is tests; your job is to write the tests that will confirm the functionality of the class. Write one test for the constructor, and at least one test for each of the other 4 methods. As you write the tests, you might find some refactoring opportunities; update the user class with any refactors you deem necessary and add a comment describing why you made that refactor.  The only rule is that all the existing methods must still exist when you are finished!
 
 
 ## Submission
