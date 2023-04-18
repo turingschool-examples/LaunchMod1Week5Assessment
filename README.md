@@ -10,11 +10,12 @@ A -
 
 3. What is the difference between `public` and `private` access modifiers?
 
-4. A method should:  
+4. A method should:  (**Select all that apply**) <br/>
 (A) Make changes to an object  
 (B) Return some information about an object  
 (C) Make changes to an object and return information about the object.  
 (D) None of the Above.  
+
 
 5. How did you determine what to answer for the question above?
 
