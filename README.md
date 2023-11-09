@@ -31,4 +31,3 @@ In this solution, there is a User project with a single User class.  The class w
 When finished:
 * Commit your changes in Visual Studio
 * Push up to GitHub
-* DM a link to your forked repository to your instructors
